@@ -3,8 +3,8 @@
 ### Welcome to my GitHub Profile! 🌟
 
 <p align="center">
-  <img src="https://lottie.host/embed/d3631c1e-96f6-43c7-9dc4-207deadcd2ef/CWweEvMC74.json" alt="Profile Banner" width="100%" />
-  <iframe src="https://lottie.host/embed/d3631c1e-96f6-43c7-9dc4-207deadcd2ef/CWweEvMC74.json">i</iframe>
+  <img src=""C:\Users\Vimal Kumar\Downloads\Animation - 1732038966551.gif"" alt="Profile Banner" width="100%" />
+  
 </p>
 
 ---
