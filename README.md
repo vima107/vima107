@@ -1,4 +1,4 @@
-# 💻 Vima Kumar | Aspiring Software Developer 🚀  
+# 💻 Vimal Kumar | Aspiring Software Developer 🚀  
 
 ### Welcome to my GitHub Profile! 🌟
 
@@ -43,6 +43,6 @@
 
 ### 🔗 Let's Connect:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vimal-kumar-323269243/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
