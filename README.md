@@ -2,10 +2,7 @@
 
 ### Welcome to my GitHub Profile! 🌟
 
-<p align="center">
-  <img src="C:\Users\Vimal Kumar\Downloads\Animation - 1732038966551.gif" alt="Profile Banner" width="100%" />
-  
-</p>
+
 
 ---
 
