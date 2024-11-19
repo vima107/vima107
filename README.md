@@ -1,55 +1,17 @@
-# 💻 Vima Kumar | Aspiring Software Developer 🚀  
+<h1 align="center">Hi 👋, I'm Vimal Kumar</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-### Welcome to my GitHub Profile! 🌟
+- 🌱 Exploring frameworks like Hibernate and Spring. **Spring boot**
 
-![Profile Banner](https://source.unsplash.com/1920x400/?technology,code)
+- 📫 How to reach me **vimalkumarp2002@gmail.com**
 
----
+- ⚡ Fun fact **I like to learn new things**
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently mastering **Java Development** and **Full-Stack Technologies**.
-- 🌱 Exploring frameworks like **Hibernate** and **Spring**.
-- 🎯 Passionate about **coding**, **problem-solving**, and building **scalable applications**.
-- 🌍 Based in **Madikeri**, with dreams to make a global impact in tech.
-
----
-
-### 🛠️ My Skillset:
-#### Programming & Frameworks:
-- **Core Java** ☕
-- **Hibernate** & **Spring Framework** 🌱
-
-#### Frontend Development:
-- **HTML** & **CSS** 🎨
-
-#### Backend Development:
-- **SQL** for databases 📊
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Vima's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Vima's Streak Stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vimal kumar p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimal kumar p" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vimaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimaa" height="30" width="40" /></a>
 </p>
 
----
-
-### 🌟 Featured Projects:
-- [🚦 Pothole Detection using YOLOv3 Tiny Framework](https://github.com/your-repo)
-- [🎥 Movie Database Mini Project](https://github.com/your-repo)
-- [🔐 Registration & Login System with MVC](https://github.com/your-repo)
-
----
-
-### 💡 Fun Facts:
-- 🎵 I enjoy coding while listening to lo-fi beats.
-- 🌳 I love exploring nature trails in my free time.
-
----
-
-### 🔗 Let's Connect:
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
