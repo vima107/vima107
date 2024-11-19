@@ -37,13 +37,6 @@
 
 ---
 
-### 🌟 Featured Projects:
-- [🚦 Pothole Detection using YOLOv3 Tiny Framework](https://github.com/your-repo)
-- [🎥 Movie Database Mini Project](https://github.com/your-repo)
-- [🔐 Registration & Login System with MVC](https://github.com/your-repo)
-
----
-
 ### 💡 Fun Facts:
 - 🎵 I enjoy coding while listening to lo-fi beats.
 - 🌳 I love exploring nature trails in my free time.
