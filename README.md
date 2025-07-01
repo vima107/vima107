@@ -8,23 +8,10 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently mastering **Java Development** and **Full-Stack Technologies**.
-- 🌱 Exploring frameworks like **Hibernate** and **Spring**.
-- 🎯 Passionate about **coding**, **problem-solving**, and building **scalable applications**.
+- 💻 Skilled in Java, C#, ASP.NET, PostgreSql
+- 🧠 Always curious to learn and grow in tech
 - 🌍 Based in **Madikeri**, with dreams to make a global impact in tech.
-
----
-
-### 🛠️ My Skillset:
-#### Programming & Frameworks:
-- **Core Java** ☕
-- **Hibernate** & **Spring Framework** 🌱
-
-#### Frontend Development:
-- **HTML** & **CSS** 🎨
-
-#### Backend Development:
-- **SQL** for databases 📊
-
+- 
 ---
 
 ### 📈 GitHub Stats:
