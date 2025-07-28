@@ -1,4 +1,4 @@
-# 💻 Vimal Kumar | Aspiring Software Developer 🚀  
+# 💻 Vimal Kumar | Trainee Software Developer 🚀  
 
 ### Welcome to my GitHub Profile! 🌟
 
