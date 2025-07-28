@@ -11,7 +11,6 @@
 - 💻 Skilled in Java, C#, ASP.NET, PostgreSql
 - 🧠 Always curious to learn and grow in tech
 - 🌍 Based in **Madikeri**, with dreams to make a global impact in tech.
-- 
 ---
 
 ### 📈 GitHub Stats:
