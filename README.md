@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently mastering **Java Development** and **Full-Stack Technologies**.
+- 🔭 I’m currently mastering **C# Development** and **Full-Stack Technologies**.
 - 💻 Skilled in Java, C#, ASP.NET, PostgreSql
 - 🧠 Always curious to learn and grow in tech
 - 🌍 Based in **Madikeri**, with dreams to make a global impact in tech.
