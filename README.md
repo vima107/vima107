@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently mastering **C# Development** and **Full-Stack Technologies**.
-- 💻 Skilled in Java, C#, ASP.NET, PostgreSql
+- 💻 Skilled in C#, ASP.NET, PostgreSql, Angular.
 - 🧠 Always curious to learn and grow in tech
 - 🌍 Based in **Madikeri**, with dreams to make a global impact in tech.
 ---
